@@ -1,0 +1,33 @@
+
+.fixed {
+    background: green;
+}
+
+.wrapper {
+    background: blue;
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+
+}
+
+.relative {
+    background: #eee;
+    position: relative;
+    height: 200px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.absolute {
+    background: yellow;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    
+}
